@@ -2,7 +2,7 @@
   mylannguyen.ca
 </h1>
 <p align="center">
-  Welcome to my personal website, <a href="https://mylannguyen.ca" target="_blank">mylannguyen.ca</a> target="_blank">Gatsby</a> hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Welcome to my personal website, <a href="https://mylannguyen.ca" target="_blank">mylannguyen.ca</a> hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/mylannguyen/deploys" target="_blank">
